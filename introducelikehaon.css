@@ -1,0 +1,11 @@
+li, p {
+  font-family: "Nanum Gothic";
+  margin-left: 10px;
+}
+h1 {
+  font-weight: lighter;
+  text-align: center;
+}
+.eye_care {
+  background-color: grey;
+}
